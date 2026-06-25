@@ -36,8 +36,7 @@
   },
   "resolutions": {
     "minimatch": "10.2.1",
-    "picomatch": "4.0.4",
-    "js-yaml": "4.2.0"
+    "picomatch": "4.0.4"
   }
 
 }
